@@ -17,7 +17,8 @@ public:
                 }
             }
         }
-
+        int dr[] = {0, 1, -1, 0};
+        int dc[] = {1, 0, 0, -1};
         while (!q.empty() && fresh > 0) {
             count++;
             int s = q.size();
@@ -25,8 +26,7 @@ public:
                 int row = q.front().first;
                 int col = q.front().second;
                 q.pop();
-                int dr[] = {0, 1, -1, 0};
-                int dc[] = {1, 0, 0, -1};
+                
                 for (int i = 0; i < 4; i++) {
                     int newr = row + dr[i];
                     int newc = col + dc[i];
