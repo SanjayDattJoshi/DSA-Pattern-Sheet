@@ -1,44 +1,36 @@
 class Solution {
 public:
-    vector<int> dijkstra(int V, vector<vector<int>> &edges, int src) {
-        // Code here
-        vector<vector<pair<int,int>>> adjList(V);
-        for(auto it: edges){
-            int u = it[0];
-            int v = it[1];
-            int w = it[2];
-            adjList[u].push_back({v,w});
+    int networkDelayTime(vector<vector<int>>& times, int n, int k) {
+        vector<pair<int, int>> adj[n + 1];
+        for (auto it : times) {
+            adj[it[0]].push_back({it[1], it[2]});
         }
-        vector<int> res(V, 1e9);
-        res[src] = 0;
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        pq.push({0,src});
-        
-        while (!pq.empty()) {
-            auto [dist, node] = pq.top();
-            pq.pop();
-            if (dist > res[node]) continue;
+        vector<int> dis(n + 1, INT_MAX);
+        dis[k] = 0;
+        priority_queue<pair<int, int>, 
+        vector<pair<int, int>>,
+        greater<pair<int, int>>>q;
+        q.push({0, k});
+        while (!q.empty()) {
+            auto it = q.top();
+            int node = it.second;
+            int time = it.first;
+            q.pop();
+            for (auto iter : adj[node]) {
+                int adjN = iter.first;
+                int t = iter.second;
 
-            for (auto [neigh, w] : adjList[node]) {
-                if (dist + w < res[neigh]) {
-                res[neigh] = dist + w;
-                pq.push({res[neigh], neigh});
+                if (dis[adjN] > time+t) {
+                    dis[adjN] = t+time;
+                    q.push({t + time, adjN});
                 }
             }
         }
-        
-    return res;
-    }
-public:
-    int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<int> res(n+1, 1e9);
-        res = dijkstra(n+1,times, k);
-
-        int minTime = INT_MIN;
-        for(int i=1; i<=n; i++){
-            if(res[i]==1e9) return -1; 
-            if(res[i]>minTime) minTime = res[i];
+        int ans = INT_MIN;
+        for(int i = 1; i <= n; i++){
+            if(dis[i] == INT_MAX) return -1;     
+            ans = max(ans, dis[i]);
         }
-        return minTime;
+        return ans;
     }
 };
