@@ -1,15 +1,13 @@
 class Solution {
 public:
 bool bipartite = true;
-void dfs(vector<vector<int>> &g, vector<int> &vis,
+void dfs(vector<vector<int>> &g,
          vector<int> &color, int node){
     if(!bipartite) return;
-    vis[node] = 1;
-
     for(int neigh : g[node]){
-        if(!vis[neigh]){
+        if(color[neigh]==-1){
             color[neigh] = !color[node];
-            dfs(g, vis, color, neigh);
+            dfs(g, color, neigh);
         }
         else if(color[neigh] == color[node]){
             bipartite = false;
@@ -19,10 +17,12 @@ void dfs(vector<vector<int>> &g, vector<int> &vis,
 }
 public:
     bool isBipartite(vector<vector<int>>& graph) {
-         vector<int> vis(graph.size(),0);
-         vector<int> color(graph.size(),0);
+         vector<int> color(graph.size(),-1);
          for(int i=0; i<graph.size(); i++){
-            if(!vis[i]) dfs(graph, vis,color, i);
+            if (color[i] == -1) {
+                color[i] = 0;
+                dfs(graph, color, i);
+            }
          }
          return bipartite;
     }
