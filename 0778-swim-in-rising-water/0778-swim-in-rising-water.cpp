@@ -1,6 +1,7 @@
 class Solution {
 public:
 bool bfs(vector<vector<int>> &arr, int n, int m, int t){
+    if(arr[0][0] > t) return false;
     int i,j;
     int dr[] = {1,-1,0,0};
     int dc[] = {0,0,1,-1};
