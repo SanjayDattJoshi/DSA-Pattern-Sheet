@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
