@@ -1,60 +1,41 @@
 class Solution {
 public:
-bool bfs(vector<vector<int>> &arr, int n, int m, int t){
-    if(arr[0][0] > t) return false;
-    int i,j;
-    int dr[] = {1,-1,0,0};
-    int dc[] = {0,0,1,-1};
-
-    queue<pair<int, int>> q;
-    vector<vector<int>> vis(n,vector<int>(m,0));
-    q.push({0,0});
-    vis[0][0] = 1;
-
-    while(!q.empty()){
-        pair<int, int> node = q.front();
-        q.pop();
-
-        int r = node.first;
-        int c = node.second;
-
-        if(r==n-1 && c==m-1) return true;
-        for(int k=0; k<4; k++){
-            int row = r+dr[k];
-            int col = c+dc[k];
-
-            if(row>=0 && row<n && col>=0 && col<m){
-                if(!vis[row][col] && t>=arr[row][col]){
-                    q.push({row,col});
-                    vis[row][col] = 1;
-                }
-            }
-        }
-    }
-    return false;
-}
-public:
     int swimInWater(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-        int low = grid[0][0];
-        int high = grid[0][0];
 
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                high = max(high, grid[i][j]);
+        vector<vector<int>> time(n, vector<int>(m, INT_MAX));
+        
+        priority_queue<pair<int,pair<int,int>>, vector<pair<int,pair<int, int>>>, greater<pair<int,pair<int,int>>>> pq;
+
+        pq.push({grid[0][0], {0,0}});
+
+        int dr[] = {1,-1,0,0};
+        int dc[] = {0,0,1,-1};
+        time[0][0] = grid[0][0];
+
+        while(!pq.empty()){
+            pair<int,pair<int, int>> node = pq.top();
+            pq.pop();
+            int t = node.first;
+            int row = node.second.first;
+            int col = node.second.second;
+
+            if(t>time[row][col]) continue;
+
+            for(int k=0; k<4; k++){
+                int r = row + dr[k];
+                int c = col + dc[k];
+
+                if(r>=0 && r<n && c>=0 && c<m){
+                    int newT = max(t, grid[r][c]);
+                    if(newT<time[r][c]){
+                        time[r][c] = newT;
+                        pq.push({newT, {r,c}});
+                    }
+                }
             }
         }
-
-        int res = 0;
-        while(low<=high){
-            int guess = (low+high)/2;
-            if(bfs(grid, n, m, guess)){
-                res = guess;
-                high = guess-1;
-            }
-            else low = guess+1;
-        }
-        return res;
+    return time[n-1][m-1];
     }
 };
