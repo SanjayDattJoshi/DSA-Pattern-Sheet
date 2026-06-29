@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Hash Table
 |  |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
