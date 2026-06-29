@@ -7,7 +7,6 @@ int fun(vector<int>& arr, int ind, int sum, vector<vector<int>>& dp) {
         if(sum == 0 || sum == arr[0]) return 1;
         return 0;
         
-        if (sum == 0) return 1;
 
         }
         if (dp[ind][sum] != -1)
@@ -25,11 +24,9 @@ public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int totalSum = 0;
         for(auto it: nums) totalSum += it;
-        if (totalSum + target < 0 || (totalSum + target) % 2 != 0) return 0;
-        int pos = (totalSum + target)/2;
-
         if(totalSum<abs(target)) return 0;
         if((totalSum+target)%2) return 0;
+        int pos = (totalSum + target)/2;
         int n = nums.size();
         vector<vector<int>> dp(n, vector<int>(pos+1, -1));
         int res = 0;
