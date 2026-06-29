@@ -22,14 +22,30 @@ class Solution {
 
 
 public:
+    //Tabulation
+    // int rob(vector<int>& nums) {
+    //     int n = nums.size();
+    //     vector<int> dp(n+2, 0);
+    //     for(int i=n-1; i>=0; i--){
+    //         int rob = nums[i] + dp[i+2];
+    //         int skip = dp[i+1];
+    //         dp[i] = max(rob,skip);
+    //     }
+    //     return dp[0];
+    // }
+
+    //Space Optimization
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n+2, 0);
+        int prev1 = 0, prev2, cur=0;
         for(int i=n-1; i>=0; i--){
-            int rob = nums[i] + dp[i+2];
-            int skip = dp[i+1];
-            dp[i] = max(rob,skip);
+            int rob = nums[i] + prev2;
+            int skip = prev1;
+            cur = max(rob,skip);
+
+            prev2 = prev1;
+            prev1 = cur;
         }
-        return dp[0];
+        return cur;
     }
 };
