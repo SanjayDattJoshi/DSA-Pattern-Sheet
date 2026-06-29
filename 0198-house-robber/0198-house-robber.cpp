@@ -37,7 +37,7 @@ public:
     //Space Optimization
     int rob(vector<int>& nums) {
         int n = nums.size();
-        int prev1 = 0, prev2, cur=0;
+        int prev1 = 0, prev2=0, cur=0;
         for(int i=n-1; i>=0; i--){
             int rob = nums[i] + prev2;
             int skip = prev1;
@@ -46,6 +46,6 @@ public:
             prev2 = prev1;
             prev1 = cur;
         }
-        return cur;
+        return prev1;
     }
 };
