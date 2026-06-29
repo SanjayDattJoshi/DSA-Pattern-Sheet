@@ -24,9 +24,10 @@ public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int totalSum = 0;
         for(auto it: nums) totalSum += it;
-        if(totalSum<abs(target)) return 0;
-        if((totalSum+target)%2) return 0;
-        int pos = (totalSum + target)/2;
+        if(totalSum < abs(target) || (totalSum + target) % 2 != 0)
+        return 0;
+
+        int pos = (totalSum + target) / 2;
         int n = nums.size();
         vector<vector<int>> dp(n, vector<int>(pos+1, -1));
         int res = 0;
