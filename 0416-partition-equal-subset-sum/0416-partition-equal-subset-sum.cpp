@@ -1,12 +1,11 @@
 class Solution {
 public:
 bool fun(vector<int>& arr, int ind, int sum, vector<vector<int>>& dp) {
-
+        if (sum == 0) return true;
         if(ind == 0){
         if(sum == arr[0]) return true;
         return false;
         
-        if (sum == 0) return true;
 
         }
         if (dp[ind][sum] != -1)
