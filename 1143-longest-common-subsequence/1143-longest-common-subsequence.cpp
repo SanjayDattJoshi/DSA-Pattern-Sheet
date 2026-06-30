@@ -11,18 +11,19 @@ int fun(string &s, string &p,vector<vector<int>> &dp, int ind1, int ind2){
 public:
     int longestCommonSubsequence(string s, string p) {
         int n = s.size(), m = p.size();
-        vector<vector<int>> dp(n+1, vector<int>(m+1,0));
+        vector<int>next(m+1,0),cur(m+1,0);
         
         for(int ind1=n-1; ind1>=0; ind1--){
             for(int ind2=m-1; ind2>=0; ind2--){
-                if(s[ind1]==p[ind2]) dp[ind1][ind2] = 1 + dp[ind1+1][ind2+1];
+                if(s[ind1]==p[ind2]) cur[ind2] = 1 + next[ind2+1];
                 else{
-                int c1 = dp[ind1][ind2+1];
-                int c2 = dp[ind1+1][ind2];
-                dp[ind1][ind2] = max(c1,c2);
+                int c1 = cur[ind2+1];
+                int c2 = next[ind2];
+                cur[ind2] = max(c1,c2);
                 }
             }
+            next = cur;
         }
-        return dp[0][0];
+        return next[0];
     }
 };
