@@ -9,9 +9,20 @@ int fun(string &s, string &p,vector<vector<int>> &dp, int ind1, int ind2){
     return dp[ind1][ind2] = max(c1,c2);
 }
 public:
-    int longestCommonSubsequence(string text1, string text2) {
-        int n = text1.size(), m = text2.size();
-        vector<vector<int>> dp(n, vector<int>(m,-1));
-        return fun(text1, text2,dp, 0, 0);
+    int longestCommonSubsequence(string s, string p) {
+        int n = s.size(), m = p.size();
+        vector<vector<int>> dp(n+1, vector<int>(m+1,0));
+        
+        for(int ind1=n-1; ind1>=0; ind1--){
+            for(int ind2=m-1; ind2>=0; ind2--){
+                if(s[ind1]==p[ind2]) dp[ind1][ind2] = 1 + dp[ind1+1][ind2+1];
+                else{
+                int c1 = dp[ind1][ind2+1];
+                int c2 = dp[ind1+1][ind2];
+                dp[ind1][ind2] = max(c1,c2);
+                }
+            }
+        }
+        return dp[0][0];
     }
 };
