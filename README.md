@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0300-longest-increasing-subsequence) |
