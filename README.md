@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
