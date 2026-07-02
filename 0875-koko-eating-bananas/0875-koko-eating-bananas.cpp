@@ -3,7 +3,8 @@ public:
 long long fun(vector<int> &piles, int speed){
     long long t = 0;
     for(int i=0; i<piles.size(); i++){
-        t += (piles[i] + speed - 1) / speed;
+       t = t + (piles[i]/speed);
+       if(piles[i]%speed != 0) t++;
     }
     return t;
 }
@@ -16,7 +17,6 @@ public:
             int mid = low + (high-low)/2;
             long long t = fun(piles, mid);
             if(t>h) low = mid+1;
-
             else {
                 res = mid;
                 high = mid-1;
