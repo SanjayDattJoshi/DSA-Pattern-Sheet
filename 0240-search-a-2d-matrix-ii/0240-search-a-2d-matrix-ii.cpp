@@ -5,7 +5,7 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = n-1; i >= 0; i--) {
 
             if (target < matrix[i][0] || target > matrix[i][m - 1])
                 continue;
