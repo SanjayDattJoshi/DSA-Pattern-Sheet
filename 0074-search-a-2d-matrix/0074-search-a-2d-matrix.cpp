@@ -6,7 +6,8 @@ public:
         int l = 0, h = n-1;
         while(l<=h){
             int middle = l + (h-l)/2;
-            if(matrix[middle][m-1]<target) l = middle+1;
+            if(matrix[middle][m-1]==target || matrix[middle][0]==target) return true;
+            else if(matrix[middle][m-1]<target) l = middle+1;
             else if(matrix[middle][0]>target) h = middle-1;
             else{
                 int low = 0, high = m-1;
