@@ -1,16 +1,11 @@
 class Solution {
 public:
     int fun(int n, int m, int guess){
-        int ans = 0;
-            int row = n-1, col=0;
-            while(row>=0 && col<=m-1){
-                if((row+1)*(col+1)>guess) row--;
-                else{
-                    ans += row+1;
-                    col = col+1;
-                }
-            }
-    return ans;
+        int cnt = 0;
+        for (int i = 1; i <= m; i++) {
+            cnt += min(n, guess / i);
+        }
+    return cnt;
     }
   
     int findKthNumber(int m, int n, int k) {
