@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Memoization
 |  |
 | ------- |
