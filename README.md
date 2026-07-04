@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -198,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
