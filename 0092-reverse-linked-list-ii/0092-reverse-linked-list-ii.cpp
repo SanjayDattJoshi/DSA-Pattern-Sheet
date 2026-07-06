@@ -25,10 +25,10 @@ public:
             ListNode *cur = temp, *prev = nullptr, *nxt;
             int times = right-left+1;
             while(times--){
-            nxt = cur->next;
-            cur->next = prev;
-            prev = cur;
-            cur = nxt;
+                nxt = cur->next;
+                cur->next = prev;
+                prev = cur;
+                cur = nxt;
             }
             temp->next = cur;
             if(beforeLeft){
