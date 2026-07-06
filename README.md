@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
