@@ -24,21 +24,19 @@ public:
         if (k == 0) return head;
 
         int pos = cnt - k - 1;
-        ListNode *t = head, *nextNode;
+        ListNode *t = head, *lastNode;
         while (t && pos--) {
             t = t->next;
         }
-
-        nextNode = t->next;
+ 
+        lastNode = t->next;
+        newHead = t->next;
         t->next = nullptr;
-        newHead = nextNode;
 
-        while (nextNode && nextNode->next)
-            nextNode = nextNode->next;
+        while (lastNode && lastNode->next) lastNode = lastNode->next;
 
-        if (nextNode)
-            nextNode->next = head;
-            
+        if (lastNode) lastNode->next = head;
+
         return newHead;
     }
 };
