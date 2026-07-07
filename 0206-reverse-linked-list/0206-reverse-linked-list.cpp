@@ -14,7 +14,7 @@ public:
         ListNode *prev=nullptr, *cur=head, *n;
         while(cur){
             n = cur->next;
-            cur->next = prev;
+            cur->next = prev;  
             prev = cur;
             cur = n;
         }
