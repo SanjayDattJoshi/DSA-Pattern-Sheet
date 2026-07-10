@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
