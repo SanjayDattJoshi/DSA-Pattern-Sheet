@@ -1,17 +1,17 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        vector<int> freq(26, 0);
+    unordered_map<char,int> need, have;
+    string str = "balloon";
+    for(int i=0; i<7; i++) need[str[i]]++;
 
-        for (char c : text)
-            freq[c - 'a']++;
+    for(int i=0; i<text.length(); i++) have[text[i]]++;
 
-        return min({
-            freq['b' - 'a'],
-            freq['a' - 'a'],
-            freq['l' - 'a'] / 2,
-            freq['o' - 'a'] / 2,
-            freq['n' - 'a']
-        });
+    int res = INT_MAX;
+
+    for(auto it: need){
+        res = min(res, have[it.first]/it.second);
+    }
+    return res;
     }
 };
