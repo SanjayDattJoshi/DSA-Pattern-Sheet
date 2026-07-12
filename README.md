@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0063-unique-paths-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0015-3sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
