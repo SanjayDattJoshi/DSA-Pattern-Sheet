@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0063-unique-paths-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
