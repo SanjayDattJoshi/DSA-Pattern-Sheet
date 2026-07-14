@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0287-find-the-duplicate-number) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0303-range-sum-query-immutable) |
 ## Binary Indexed Tree
 |  |
