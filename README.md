@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0704-binary-search) |
