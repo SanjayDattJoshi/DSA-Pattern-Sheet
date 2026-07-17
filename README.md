@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0875-koko-eating-bananas) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
