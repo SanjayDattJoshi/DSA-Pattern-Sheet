@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int fun(vector<int> nums, int k){
+    int fun(vector<int> &nums, int k){
         int n = nums.size();
         unordered_map<int, int> mpp;
         int l = 0, r = 0, count=0;
