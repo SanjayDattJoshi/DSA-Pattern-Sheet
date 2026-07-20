@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1143-longest-common-subsequence) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
