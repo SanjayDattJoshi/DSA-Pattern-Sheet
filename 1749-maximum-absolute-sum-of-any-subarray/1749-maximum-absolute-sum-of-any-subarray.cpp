@@ -2,13 +2,13 @@ class Solution {
 public:
     int maxAbsoluteSum(vector<int>& arr) {
         int n = arr.size();
-        int sum1 = arr[0], sum2 = arr[0];
+        int curMax = arr[0], curMin = arr[0];
         int maxSum = arr[0], minSum = arr[0];
         for(int i=1; i<n; i++){
-            sum1 = max(arr[i], sum1+arr[i]);
-            sum2 = min(arr[i], sum2+arr[i]);
-            maxSum = max(sum1, maxSum);
-            minSum = min(sum2, minSum);
+            curMax = max(arr[i], curMax+arr[i]);
+            curMin = min(arr[i], curMin+arr[i]);
+            maxSum = max(curMax, maxSum);
+            minSum = min(curMin, minSum);
         }
         return max(maxSum, abs(minSum));
     }
