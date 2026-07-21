@@ -1,18 +1,38 @@
 class Solution {
 public:
-string finalStr(string s,int n){
-    string temp = "";
-    for(int i=0; i<n; i++){
-        if(s[i] != '#') temp.push_back(s[i]);
-        else if(!temp.empty()) temp.pop_back();
-    }
-    return temp;
-}
     bool backspaceCompare(string s, string t) {
         int n = s.length(), m = t.length();
-        string temp1 = finalStr(s, n);
-        string temp2 = finalStr(t, m);
-        if(temp1 == temp2) return true;
-        return false;
+        int i = n-1, j = m-1;
+        int skipt = 0, skips = 0;
+        while(i>=0 || j>=0){
+            while(i>=0){
+                if(s[i]=='#'){
+                    skips++;
+                    i--;
+                }
+                else if(skips>0){
+                    skips--;
+                    i--;
+                }
+                else break;
+            }
+            while(j>=0){
+                if(t[j]=='#'){
+                    skipt++;
+                    j--;
+                }
+                else if(skipt>0){
+                    skipt--;
+                    j--;
+                }
+                else break;
+            }
+            char ch1 = i<0?'$':s[i];
+            char ch2 = j<0?'$':t[j];
+            if(ch1!=ch2) return false;
+            i--;
+            j--;
+        }
+        return true;
     }
 };
