@@ -22,16 +22,14 @@ public:
         }
 
         int low = maxEle, high = totalWeight;
-        int ans = INT_MAX;
         while(low<=high){
             int mid = low + (high-low)/2;
             int d = helper(weights, n, mid);
             if(d<=days) {
-                ans = min(ans, mid);
                 high = mid-1;
             }
             else low = mid+1;
         }
-        return ans;
+        return low;
     }
 };
