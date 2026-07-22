@@ -7,8 +7,9 @@ public:
         int ans = -1;
         while(low<=high){
             long long mid = low + (high-low)/2;
-            if((mid * mid) == x) return mid;
-            else if ((mid*mid) < x) {
+            long long square = mid * mid;
+            if(square == x) return mid;
+            else if (square < x) {
                 ans = mid;
                 low = mid+1;
             }
