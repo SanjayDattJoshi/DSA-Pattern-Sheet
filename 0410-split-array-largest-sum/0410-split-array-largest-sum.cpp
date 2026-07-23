@@ -19,7 +19,6 @@ public:
             low = max(low, (long long)it);
             high += it;
         }
-        if(k==1) return high;
         ans = low;
         while(low<=high){
             long long mid = low + (high-low)/2;
