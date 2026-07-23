@@ -25,10 +25,10 @@ public:
             high = max(high, day);
         }
         
-        while(low<=high){
+        while(low<high){
             int mid = low + (high - low)/2;
             if(helper(bloomDay, n, m,k, mid)){
-                high = mid-1;
+                high = mid;
             }
             else low = mid+1;
         }
