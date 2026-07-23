@@ -19,17 +19,19 @@ public:
         long long neededFlowers = (long long) m*k;
         if(neededFlowers > n) return -1;
 
-        int low = 1, high = 0, ans = INT_MAX;
-        for(auto it: bloomDay) high = max(high, it);
+        int low = INT_MAX, high = INT_MIN;
+        for (int day : bloomDay) {
+            low = min(low, day);
+            high = max(high, day);
+        }
         
         while(low<=high){
             int mid = low + (high - low)/2;
             if(helper(bloomDay, n, m,k, mid)){
-                ans = min(ans, mid);
                 high = mid-1;
             }
             else low = mid+1;
         }
-        return ans == INT_MAX? -1: ans;
+        return low;
     }
 };
