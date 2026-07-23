@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0494-target-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0713-subarray-product-less-than-k) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0713-subarray-product-less-than-k) |
