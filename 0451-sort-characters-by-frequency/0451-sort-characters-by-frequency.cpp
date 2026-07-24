@@ -12,9 +12,11 @@ public:
         }
         string res = "";
         while(!pq.empty()){
-            int f = pq.top().first;
-            while(f--) res += pq.top().second;
+            auto [f, ch] = pq.top();
             pq.pop();
+            while (f--) {
+            res += ch;
+            }
         }
         return res;
     }
