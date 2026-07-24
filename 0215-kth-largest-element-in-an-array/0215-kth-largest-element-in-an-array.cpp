@@ -7,9 +7,10 @@ public:
         for(i=0; i<k; i++) pq.push(nums[i]);
 
         for(i=k; i<n; i++){
-            if(nums[i]<pq.top()) continue;
-            pq.pop();
-            pq.push(nums[i]);
+            if (nums[i] > pq.top()) {
+                pq.pop();
+                pq.push(nums[i]);
+            }
         }
         return pq.top();
     }
