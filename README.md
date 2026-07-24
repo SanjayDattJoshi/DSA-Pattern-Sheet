@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1143-longest-common-subsequence) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Linked List
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
@@ -409,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
