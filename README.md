@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1552-magnetic-force-between-two-balls) |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
