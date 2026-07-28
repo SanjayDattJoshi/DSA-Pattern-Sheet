@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0739-daily-temperatures) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Linked List
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
