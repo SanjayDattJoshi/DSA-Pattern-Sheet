@@ -29,6 +29,7 @@ public:
             tail->next = cur;
             tail = tail->next;
         }
+        tail->next = nullptr;
         return dummy->next;
     }
 };
