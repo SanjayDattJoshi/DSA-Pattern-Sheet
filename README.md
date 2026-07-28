@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0295-find-median-from-data-stream) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0061-rotate-list) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Ordered Set
 |  |
