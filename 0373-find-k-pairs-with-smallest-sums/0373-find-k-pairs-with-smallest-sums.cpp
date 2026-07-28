@@ -1,10 +1,10 @@
 class Solution {
 public:
-    typedef pair<int, pair<int,int>> p;
+    typedef pair<long long, pair<int,int>> p;
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
+        if (nums1.empty() || nums2.empty()) return {};
         priority_queue<p, vector<p>, greater<p>> pq;
         int n = nums1.size(), m = nums2.size();
-        // if(k>n*m)  return {};
         vector<vector<int>> result;
         int sum = nums1[0] + nums2[0];
         pq.push({sum, {0,0}});
