@@ -16,12 +16,14 @@ public:
             int listIdx = cur[1];
             int idx = cur[2];
 
-            if(maxEl - minEl < result[1] - result[0]) {
+            if(maxEl - minEl < result[1] - result[0] ||
+    (maxEl - minEl == result[1] - result[0] &&
+     minEl < result[0])) {
                 result[0] = minEl;
                 result[1] = maxEl;
             }
 
-            if(idx+1 < nums[listIdx].size()){
+            if(idx+1 < nums[listIdx].size() ){
                 int nextEl = nums[listIdx][idx+1];
                 pq.push({nextEl, listIdx, idx+1});
                 maxEl = max(maxEl, nextEl);
