@@ -14,31 +14,20 @@ public:
         ListNode *result = new ListNode(0), *temp = result;
         ListNode *ptr1 = l1, *ptr2 = l2;
         int carry = 0;
-        while(ptr1 != nullptr && ptr2 != nullptr){
-            int sum = (ptr1->val + ptr2->val + carry) % 10;
+        while(ptr1 != nullptr || ptr2 != nullptr){
+            int sum = 0;
+            if(ptr1 != nullptr) sum += ptr1->val; 
+            if(ptr2 != nullptr) sum += ptr2->val;
+            sum += carry;
+            carry = sum / 10;
+            sum = sum % 10;
             ListNode *node = new ListNode(sum);
-            carry = (ptr1->val + ptr2->val + carry) / 10;
             temp->next = node;
             temp = temp->next;
-            ptr1 = ptr1->next;
-            ptr2 = ptr2->next;
+            if(ptr1 != nullptr) ptr1 = ptr1->next;
+            if(ptr2 != nullptr) ptr2 = ptr2->next;
         }
-        while(ptr1 != nullptr){
-            int sum = (ptr1->val + carry) % 10;
-            ListNode *node = new ListNode(sum);
-            carry = (ptr1->val + carry) / 10;
-            temp->next = node;
-            temp = temp->next;
-            ptr1 = ptr1->next;
-        }
-        while(ptr2 != nullptr){
-            int sum = (ptr2->val + carry) % 10;
-            ListNode *node = new ListNode(sum);
-            carry = (ptr2->val + carry) / 10;
-            temp->next = node;
-            temp = temp->next;
-            ptr2 = ptr2->next;
-        }
+        
         if(carry != 0){
             ListNode *node = new ListNode(carry);
             temp->next = node;
