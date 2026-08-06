@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
