@@ -1,23 +1,19 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        string prefix = strs[0];
+        if (strs.empty())
+            return "";
 
-        for (int i = 1; i < strs.size(); i++) {
-            int j = 0;
+        for (int i = 0; i < strs[0].size(); i++) {
+            char ch = strs[0][i];
 
-            while (j < prefix.size() &&
-                   j < strs[i].size() &&
-                   prefix[j] == strs[i][j]) {
-                j++;
+            for (int j = 1; j < strs.size(); j++) {
+                if (i >= strs[j].size() || strs[j][i] != ch) {
+                    return strs[0].substr(0, i);
+                }
             }
-
-            prefix = prefix.substr(0, j);
-
-            if (prefix.empty())
-                return "";
         }
 
-        return prefix;
+        return strs[0];
     }
 };
