@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0033-search-in-rotated-sorted-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0480-sliding-window-median) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
