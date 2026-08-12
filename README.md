@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
