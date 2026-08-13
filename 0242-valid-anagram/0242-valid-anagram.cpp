@@ -2,15 +2,15 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         int n = s.length(), m = t.length();
-        vector<int> freqS(128,0), freqT(128,0);
+        vector<int> freq(128,0);
         for(int i=0; i<n; i++){
-            freqS[s[i]]++;
+            freq[s[i]]++;
         }
         for(int i=0; i<m; i++){
-            freqT[t[i]]++;
+            freq[t[i]]--;
         }
         for(int i=0; i<128; i++){
-            if(freqS[i] != freqT[i]) return false;
+            if(freq[i] != 0) return false;
         }
         return true;
     }
