@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0918-maximum-sum-circular-subarray) |
+| [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
+| [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
