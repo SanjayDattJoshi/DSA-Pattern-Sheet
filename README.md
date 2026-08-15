@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0704-binary-search) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1552-magnetic-force-between-two-balls) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0295-find-median-from-data-stream) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
