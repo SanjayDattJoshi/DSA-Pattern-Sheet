@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0547-number-of-provinces) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
