@@ -4,20 +4,22 @@ public:
         if (x < 0)
             return false;
 
-        int divisor = 1;
+        vector<int> digits;
 
-        while (x / divisor >= 10)
-            divisor *= 10;
+        while (x > 0) {
+            digits.push_back(x % 10);
+            x /= 10;
+        }
 
-        while (x != 0) {
-            int left = x / divisor;
-            int right = x % 10;
+        int i = 0;
+        int j = digits.size() - 1;
 
-            if (left != right)
+        while (i < j) {
+            if (digits[i] != digits[j])
                 return false;
 
-            x = (x % divisor) / 10;
-            divisor /= 100;
+            i++;
+            j--;
         }
 
         return true;
