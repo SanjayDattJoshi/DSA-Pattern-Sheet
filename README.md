@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -497,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0014-longest-common-prefix) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
