@@ -11,19 +11,22 @@
  */
 class Solution {
 public:
-    int fun(TreeNode* root, long long sum){
+    int fun(TreeNode* root, long long runningSum, int target, unordered_map<long long,int> &map){
         if(root==nullptr) return 0;
-        int count = 0;
-        if(root->val == sum) count = 1;
 
-        count += fun(root->left, sum - root->val);
-        count += fun(root->right, sum - root->val);
+        runningSum += root->val;
+        int count = map[runningSum-target];
+        map[runningSum]++;
+
+        count += fun(root->left, runningSum, target, map)
+                +fun(root->right, runningSum, target, map);
+
+        map[runningSum]--;
         return count;
     }
     int pathSum(TreeNode* root, int sum) {
-        if(root==nullptr) return 0;
-        return pathSum(root->left, sum) + 
-               pathSum(root->right, sum) +
-               fun(root, sum);
+        unordered_map<long long, int> preSum;
+        preSum[0] = 1;
+        return fun(root, 0, sum, preSum);
     }
 };
