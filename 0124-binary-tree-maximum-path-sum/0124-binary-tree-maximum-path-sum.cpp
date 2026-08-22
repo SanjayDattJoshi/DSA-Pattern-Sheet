@@ -12,18 +12,22 @@
 class Solution {
 public:
     int maxSum;
-    int solve(TreeNode* root){
-        if(root==nullptr) return 0;
 
-        int l = solve(root->left);
-        int r = solve(root->right);
+    int solve(TreeNode* root) {
+        if (root == nullptr) return 0;
 
-        int neeche_milgya_ans = l + r + root->val;
-        int koi_ek_acha = max(l, r) + root->val;
-        int root_acha = root->val;
-        maxSum = max({maxSum, neeche_milgya_ans, koi_ek_acha, root_acha});
-        return max(koi_ek_acha, root_acha);
+        int leftGain = solve(root->left);
+        int rightGain = solve(root->right);
+
+        int pathThroughRoot = leftGain + rightGain + root->val;
+        int bestOneSidePath = max(leftGain, rightGain) + root->val;
+        int rootOnlyPath = root->val;
+
+        maxSum = max({maxSum, pathThroughRoot, bestOneSidePath, rootOnlyPath});
+
+        return max(bestOneSidePath, rootOnlyPath);
     }
+
     int maxPathSum(TreeNode* root) {
         maxSum = INT_MIN;
         solve(root);
