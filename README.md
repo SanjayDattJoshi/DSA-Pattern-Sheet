@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
