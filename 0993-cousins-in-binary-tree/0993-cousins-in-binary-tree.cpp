@@ -12,29 +12,46 @@
 class Solution {
 public:
     bool isCousins(TreeNode* root, int x, int y) {
-        if(root->val==x || root->val==y) return false;
-        unordered_map<int, pair<int, int>> levels;
         queue<pair<TreeNode*, TreeNode*>> q;
         q.push({root, nullptr});
-        int level = 0;
-        while(!q.empty()){
+
+        while (!q.empty()) {
             int size = q.size();
-            for(int i=0; i<size; i++){
-                auto p = q.front();
+            bool foundX = false;
+            bool foundY = false;
+
+            for (int i = 0; i < size; i++) {
+                auto [node, parent] = q.front();
                 q.pop();
 
-                TreeNode* node = p.first;
-                TreeNode* parent = p.second;
+                // x and y are siblings
+                if (node->left && node->right) {
+                    if ((node->left->val == x && node->right->val == y) ||
+                        (node->left->val == y && node->right->val == x)) {
+                        return false;
+                    }
+                }
 
-                if(parent) levels[node->val] = {level, parent->val};
+                if (node->val == x)
+                    foundX = true;
 
-                if(node->left) q.push({node->left, node});
-                if(node->right) q.push({node->right, node});
+                if (node->val == y)
+                    foundY = true;
+
+                if (node->left)
+                    q.push({node->left, node});
+
+                if (node->right)
+                    q.push({node->right, node});
             }
-            level++;
+
+            if (foundX && foundY)
+                return true;
+
+            if (foundX || foundY)
+                return false;
         }
 
-        if(levels[x].first == levels[y].first && levels[x].second != levels[y].second) return true;
         return false;
     }
 };
