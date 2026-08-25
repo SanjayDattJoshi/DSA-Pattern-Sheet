@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0994-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0992-subarrays-with-k-different-integers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
 | ------- |
@@ -567,12 +572,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0968-binary-tree-cameras) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
