@@ -35,8 +35,8 @@ public:
 
                 if(node->right) q.push({node->right, 2*index+1});
             }
-            unsigned long long width = rightMost-leftMost+1;
-            ans = max(ans, (int)width);
+            // unsigned long long width =;
+            ans = max(ans, (int)( rightMost-leftMost+1));
         }
         return ans;
     }
