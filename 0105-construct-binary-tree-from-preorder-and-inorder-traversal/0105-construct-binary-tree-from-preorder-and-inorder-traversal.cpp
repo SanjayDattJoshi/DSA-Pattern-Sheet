@@ -11,21 +11,18 @@
  */
 class Solution {
 public:
-int ind = 0;
-unordered_map<int,int> mpp;
-TreeNode* fun(vector<int> &preorder, int low, int high){
-    if(low>high) return nullptr;
-    TreeNode* node = new TreeNode(preorder[ind++]);
-    int id = mpp[node->val];
-    node->left = fun(preorder, low, id-1);
-    node->right = fun(preorder, id+1, high);
-    return node;
-}
-public:
+    unordered_map<int, int> mpp;
+    int ind = 0;
+    TreeNode* build(vector<int> &preorder, int low, int high){
+        if(low>high) return nullptr;
+        TreeNode* node = new TreeNode (preorder[ind++]);
+        int index = mpp[node->val];
+        node->left = build(preorder, low, index-1);
+        node->right = build(preorder, index+1, high);
+        return node;
+    }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-         for(int i=0; i<inorder.size(); i++){
-            mpp[inorder[i]] = i;
-        }
-        return fun(preorder, 0, inorder.size()-1);
+        for(int i=0; i<inorder.size(); i++) mpp[inorder[i]] = i;
+        return build(preorder, 0, preorder.size()-1);
     }
 };
