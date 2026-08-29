@@ -11,30 +11,15 @@
  */
 class Solution {
 public:
-    void fun(TreeNode* root, int val){
-        if(val>root->val){
-            if(root->right==nullptr){
-                TreeNode* node = new TreeNode(val);
-                root->right = node;
-                return;
-            }
-            fun(root->right, val);
-        }
-        else{
-            if(root->left==nullptr){
-                TreeNode* node = new TreeNode(val);
-                root->left = node;
-                return;
-            }
-            fun(root->left, val);
-        }
-    }
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        if(root==nullptr){
-            TreeNode* node = new TreeNode(val);
-            return node;
-        }
-        fun(root, val);
+        if(root == nullptr)
+            return new TreeNode(val);
+
+        if(val > root->val)
+            root->right = insertIntoBST(root->right, val);
+        else
+            root->left = insertIntoBST(root->left, val);
+
         return root;
     }
 };
