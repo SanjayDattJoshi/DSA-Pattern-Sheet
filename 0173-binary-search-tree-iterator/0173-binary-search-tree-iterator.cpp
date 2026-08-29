@@ -14,9 +14,10 @@ public:
     stack<TreeNode*> st;
 
     void pushLeft(TreeNode* root){
-        if(root==nullptr) return;
+        while(root != nullptr) {
         st.push(root);
-        if(root->left) pushLeft(root->left);
+        root = root->left;
+        }
     }
 
     BSTIterator(TreeNode* root) {
