@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0152-maximum-product-subarray) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0240-search-a-2d-matrix-ii) |
@@ -598,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
