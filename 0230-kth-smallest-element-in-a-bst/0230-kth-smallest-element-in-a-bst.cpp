@@ -15,8 +15,15 @@ public:
     void inorderTraversal(TreeNode* root, int &k){
         if(root==nullptr) return;
         inorderTraversal(root->left, k);
+        if (k == 0)
+            return;
+
         k--;
-        if(k==0) res = root->val;
+
+        if (k == 0) {
+            res = root->val;
+            return;
+        }
         inorderTraversal(root->right, k);
     }
 
