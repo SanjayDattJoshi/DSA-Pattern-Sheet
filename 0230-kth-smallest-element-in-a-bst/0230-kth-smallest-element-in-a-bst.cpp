@@ -21,9 +21,6 @@ public:
         if(root==nullptr) return 0;
         vector<int> arr;
         inorderTraversal(root, arr);
-
-        sort(arr.begin(), arr.end());
-
         return arr[k-1];
     }
 };
