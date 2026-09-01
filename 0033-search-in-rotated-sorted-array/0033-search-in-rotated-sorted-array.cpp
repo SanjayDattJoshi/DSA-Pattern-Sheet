@@ -6,7 +6,7 @@ public:
         while(low<=high){
             int mid = low + (high-low)/2;
             if(nums[mid]==target) return mid;
-            
+
             // Left half is sorted
             if (nums[low] <= nums[mid]) {
                 if (nums[low] <= target && target < nums[mid])
