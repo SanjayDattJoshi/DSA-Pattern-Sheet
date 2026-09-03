@@ -74,6 +74,9 @@ public:
     }
     Node* cloneGraph(Node* node) {
         if(node == nullptr) return nullptr;
+
+        mpp.clear();
+        
         Node* clone = new Node(node->val);
 
         mpp[node] = clone;
