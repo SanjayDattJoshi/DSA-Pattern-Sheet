@@ -72,16 +72,38 @@ public:
             }
         }
     }
+
+    void bfs(queue<Node*> &q){
+        while(!q.empty()){
+            Node* node = q.front();
+            Node* clone_node = mpp[node];
+            q.pop();
+
+            for(Node* n : node->neighbors){
+                if(mpp.find(n) == mpp.end()){
+                    Node* clone = new Node(n->val);
+                    mpp[n] = clone;
+                    clone_node->neighbors.push_back(clone);
+                    q.push(n);
+                }
+                else{
+                    clone_node->neighbors.push_back(mpp[n]);
+                }
+            }
+        }
+    }
     Node* cloneGraph(Node* node) {
         if(node == nullptr) return nullptr;
 
         mpp.clear();
-        
+
         Node* clone = new Node(node->val);
 
         mpp[node] = clone;
 
-        dfs(node, clone);
+        queue<Node*> q;
+        q.push(node);
+        bfs(q);
 
         return clone;
     }
