@@ -6,6 +6,7 @@ public:
 
         if (grid[0][0] == 1 || grid[n - 1][m - 1] == 1)
             return -1;
+            
         queue<pair<int, pair<int, int>>> q;
         q.push({1, {0, 0}});
         grid[0][0] = 1;
