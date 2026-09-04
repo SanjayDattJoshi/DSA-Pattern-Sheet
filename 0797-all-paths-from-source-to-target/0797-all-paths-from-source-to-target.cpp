@@ -5,12 +5,13 @@ public:
         curPath.push_back(curNode);
         if(curNode==target) {
             res.push_back(curPath);
+            curPath.pop_back();
             return;
         }
         for(auto it: graph[curNode]){
             dfs(graph, it, target, curPath);
-            curPath.pop_back();
         }
+        curPath.pop_back();
         return;
     }
 
