@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2258-escape-the-spreading-fire](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2258-escape-the-spreading-fire) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Depth-First Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
+| [2258-escape-the-spreading-fire](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2258-escape-the-spreading-fire) |
 ## Union-Find
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
+| [2258-escape-the-spreading-fire](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2258-escape-the-spreading-fire) |
 ## Graph Theory
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
+| [2258-escape-the-spreading-fire](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2258-escape-the-spreading-fire) |
 ## Dynamic Programming
 |  |
 | ------- |
