@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0410-split-array-largest-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 | [0437-path-sum-iii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0543-diameter-of-binary-tree) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0785-is-graph-bipartite) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -702,4 +708,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1192-critical-connections-in-a-network) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
