@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool topoSort(unordered_map<int, vector<int>> &adj, vector<int> &indegree, int n){
+    bool topoSort(vector<vector<int>> &adj, vector<int> &indegree, int n){
         queue<int> q;
         int count = 0;
         for(int i=0; i<n; i++){
@@ -24,7 +24,7 @@ public:
         return count==n;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int, vector<int>> adj;
+        vector<vector<int>> adj(numCourses);
         vector<int> indegree(numCourses,0);
 
         for(auto it: prerequisites){
