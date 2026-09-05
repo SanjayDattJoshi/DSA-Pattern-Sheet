@@ -5,17 +5,16 @@ public:
         for(int i=0; i<n; i++){
             if(indegree[i]==0) {
                 q.push(i);
-                res.push_back(i);
             }
         }
         while(!q.empty()){
             int u = q.front();
+            res.push_back(u);
             q.pop();
 
             for(int &v: adj[u]){
                 indegree[v]--;
                 if(indegree[v]==0){
-                    res.push_back(v);
                     q.push(v);
                 }
             }
@@ -31,7 +30,9 @@ public:
         }
         vector<int> res;
         topoSort(adj,indegree, numCourses, res);
-        vector<int> emptyRes;
-        return res.size()==numCourses?res:emptyRes;
+        
+        if(res.size() != numCourses) return {};
+
+        return res;
     }
 };
