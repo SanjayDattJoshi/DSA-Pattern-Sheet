@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1192-critical-connections-in-a-network](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2360-longest-cycle-in-a-graph) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0797-all-paths-from-source-to-target) |
+| [1192-critical-connections-in-a-network](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2360-longest-cycle-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -683,4 +685,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2360-longest-cycle-in-a-graph) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
