@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0189-rotate-array) |
@@ -720,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
