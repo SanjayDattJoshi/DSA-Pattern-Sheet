@@ -14,7 +14,7 @@ public:
                     carry = 1;
                     digits[i] = 0;
                 }
-                else if(digits[i]<9){
+                else{
                     if(i!=0 || digits[i]<9) {
                         digits[i] = digits[i] + carry;
                         return digits;
