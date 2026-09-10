@@ -37,14 +37,32 @@ public:
 };
 class Solution {
 public:
+    bool dfs(int st, int tar, unordered_map<int, vector<int>> &adj,vector<int> &vis){
+        if(st==tar) return true;
+        vis[st] = 1;
+        for(auto it: adj[st]){
+            if(vis[it]) continue;
+            if(dfs(it,tar,adj,vis)) return true;
+        }
+        return false;
+    }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-        Disjoint_Set dsu(n);
+        // Disjoint_Set dsu(n);
 
-        vector<int> edgeCount(n, 0);
-        for(auto it : edges) {
-            if(dsu.findParent(it[0]) == dsu.findParent(it[1])) return it;
-            dsu.unionBySize(it[0], it[1]);
+        // vector<int> edgeCount(n, 0);
+        // for(auto it : edges) {
+        //     if(dsu.findParent(it[0]) == dsu.findParent(it[1])) return it;
+        //     dsu.unionBySize(it[0], it[1]);
+        // }
+        // return {};
+        unordered_map<int, vector<int>> adj;
+        for(auto it: edges){
+            int u = it[0], v = it[1];
+            vector<int>vis(n+1,0);
+            if(adj.find(u) != adj.end() && adj.find(v) != adj.end() && dfs(u,v,adj,vis)) return it;
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
         return {};
     }
