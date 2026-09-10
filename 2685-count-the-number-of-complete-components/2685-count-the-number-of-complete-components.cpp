@@ -35,9 +35,12 @@ public:
     }
     int getSize(int node) { return size[findParent(node)]; }
 };
+
 class Solution {
 public:
-    /*
+
+    int countCompleteComponents(int n, vector<vector<int>>& edges) {
+         /*
         void dfs(int node, vector<int> &vis, vector<int> adj[], int &edges, int
        &nodes){ vis[node] = 1; nodes++;
 
@@ -49,27 +52,33 @@ public:
                 }
             }
         }
-    */
-    int countCompleteComponents(int n, vector<vector<int>>& edges) {
+       */
         Disjoint_Set dsu(n);
-        for (auto it : edges) {
+
+        for(auto it : edges) {
             dsu.unionBySize(it[0], it[1]);
         }
-        int comps = 0;
-        vector<int> edgeCount(n);
-        for (auto it : edges) {
+
+        vector<int> edgeCount(n, 0);
+
+        for(auto it : edges) {
             edgeCount[dsu.findParent(it[0])]++;
         }
 
-        for (int i = 0; i < n; i++) {
-            if (dsu.findParent(i) == i) {
+        int comps = 0;
+
+        for(int i = 0; i < n; i++) {
+
+            if(dsu.findParent(i) == i) {
+
                 int e = edgeCount[i];
                 int v = dsu.getSize(i);
 
-                if (e == (v * (v - 1) / 2)) comps++;
+                if(e == v * (v - 1) / 2)
+                    comps++;
             }
-            
         }
+
         return comps;
     }
 };
