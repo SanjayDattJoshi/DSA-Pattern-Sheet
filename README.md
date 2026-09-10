@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2360-longest-cycle-in-a-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2258-escape-the-spreading-fire) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2360-longest-cycle-in-a-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1631-path-with-minimum-effort](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2360-longest-cycle-in-a-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/2685-count-the-number-of-complete-components) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
