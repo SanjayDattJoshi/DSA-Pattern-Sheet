@@ -1,8 +1,8 @@
 class Disjoint_Set{
-    vector<int> size;
-    vector<int> parent;
-    
+vector<int> size;
+vector<int> parent;    
 public:
+
     Disjoint_Set(int n){
         size.resize(n+1, 1);
         parent.resize(n+1);
@@ -31,9 +31,13 @@ public:
             size[ulp_u] += size[ulp_v];
         }
     }
+    int getSize(int node) {
+        return size[findParent(node)];
+    }
 };
 class Solution {
 public:
+/*
     void dfs(int node, vector<int> &vis, vector<int> adj[], int &edges, int &nodes){
         vis[node] = 1;
         nodes++;
@@ -46,23 +50,23 @@ public:
             }
         }
     }
+*/
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<int> adj[n];
+        Disjoint_Set dsu(n);
         for(auto it: edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+            dsu.unionBySize(it[0], it[1]);
+        }
+        int comps = 0;
+        vector<int> edgeCount(n);
+        for(auto it: edges){
+           edgeCount[dsu.findParent(it[0])]++;
         }
 
-        vector<int> visited(n,0);
-        int comps = 0;
         for(int i=0; i<n; i++){
-            if(visited[i] == 0){
-                int edges = 0;
-                int nodes = 0;
-                dfs(i, visited, adj, edges, nodes);
-                edges /= 2;
-                if(edges == nodes * (nodes - 1) / 2) comps++;
-            }
+            int e = edgeCount[i];
+            int v = dsu.getSize(i);
+
+            if(e==(v*(v-1)/2)) comps++;
         }
         return comps;
     }
