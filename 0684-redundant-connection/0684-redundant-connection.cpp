@@ -48,14 +48,17 @@ public:
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-        // Disjoint_Set dsu(n);
+        Disjoint_Set dsu(n);
 
-        // vector<int> edgeCount(n, 0);
-        // for(auto it : edges) {
-        //     if(dsu.findParent(it[0]) == dsu.findParent(it[1])) return it;
-        //     dsu.unionBySize(it[0], it[1]);
-        // }
-        // return {};
+        vector<int> edgeCount(n, 0);
+        for(auto it : edges) {
+            if(dsu.findParent(it[0]) == dsu.findParent(it[1])) return it;
+            dsu.unionBySize(it[0], it[1]);
+        }
+        return {};
+
+        /*
+        // DFS Idea
         unordered_map<int, vector<int>> adj;
         for(auto it: edges){
             int u = it[0], v = it[1];
@@ -64,6 +67,7 @@ public:
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
+        */
         return {};
     }
 };
