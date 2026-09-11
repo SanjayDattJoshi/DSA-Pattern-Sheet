@@ -17,8 +17,10 @@ public:
         temp = temp->next;
         while(temp){
             if(temp->val == prev->val){
+                ListNode* duplicate = temp;
                 temp = temp->next;
                 prev->next = temp;
+                delete duplicate;
                 continue;
             }
             prev = temp;
