@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0242-valid-anagram) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0287-find-the-duplicate-number) |
