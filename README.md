@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0127-word-ladder) |
+| [0168-excel-sheet-column-title](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0383-ransom-note) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
