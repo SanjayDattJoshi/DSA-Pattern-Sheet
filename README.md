@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0785-is-graph-bipartite) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -518,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1552-magnetic-force-between-two-balls) |
 ## Linked List
