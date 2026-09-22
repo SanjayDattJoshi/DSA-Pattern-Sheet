@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0739-daily-temperatures) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0295-find-median-from-data-stream) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
