@@ -39,13 +39,33 @@ public:
         return dist;
     }
 
+    vector<int> bellmanFord(int V, vector<vector<int>> & edges, int src) {
+		vector<int> dist(V, 1e8);
+		dist[src] = 0;
+		
+		for (int i = 0; i<V - 1; i++) {
+			for (int j = 0; j<edges.size(); j++) {
+				int s = edges[j][0];
+				int d = edges[j][1];
+				int w = edges[j][2];
+				
+				if (dist[s] != 1e8 && dist[d]>dist[s]+w)
+					dist[d] = dist[s] + w;
+
+                if(dist[d] != 1e9 && dist[s] > dist[d] + w) 
+                    dist[s] = dist[d] + w;
+			}
+		}		
+		return dist;
+	}
+
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
         vector<int> neighborsAtThresholdDis(n);
 
         vector<int> dist[n];
         for(int i=0; i<n; i++){
             vector<int> row;
-            row = dijkstra(n, edges, i);
+            row = bellmanFord(n, edges, i);
 
             dist[i]=row;
         }
