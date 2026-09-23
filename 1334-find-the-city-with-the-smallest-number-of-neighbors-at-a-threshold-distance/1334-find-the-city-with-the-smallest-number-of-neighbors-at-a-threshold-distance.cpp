@@ -65,7 +65,7 @@ public:
         vector<int> dist[n];
         for(int i=0; i<n; i++){
             vector<int> row;
-            row = bellmanFord(n, edges, i);
+            row = bellmanFord(n, edges, i);//we can use bellman ford or dijkstra
 
             dist[i]=row;
         }
