@@ -3,11 +3,9 @@ public:
     int myAtoi(string s) {
         int i = 0, n = s.size();
 
-        // Skip spaces
         while (i < n && s[i] == ' ')
             i++;
 
-        // Sign
         int sign = 1;
         if (i < n && (s[i] == '+' || s[i] == '-')) {
             if (s[i] == '-')
@@ -17,7 +15,6 @@ public:
 
         long long num = 0;
 
-        // Digits
         while (i < n && isdigit(s[i])) {
             num = num * 10 + (s[i] - '0');
 
