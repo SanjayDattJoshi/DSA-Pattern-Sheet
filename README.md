@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0125-valid-palindrome) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
@@ -807,4 +810,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
