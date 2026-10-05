@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0118-pascals-triangle) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0142-linked-list-cycle-ii) |
