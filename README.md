@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
