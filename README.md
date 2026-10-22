@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0342-power-of-four) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Recursion
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
