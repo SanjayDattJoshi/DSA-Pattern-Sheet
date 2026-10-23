@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0451-sort-characters-by-frequency) |
+| [0657-robot-return-to-origin](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
 | [0953-verifying-an-alien-dictionary](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0953-verifying-an-alien-dictionary) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0258-add-digits) |
+| [0657-robot-return-to-origin](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/SanjayDattJoshi/DSA-Pattern-Sheet/tree/master/0844-backspace-string-compare) |
 ## Bucket Sort
 |  |
